@@ -11,7 +11,7 @@ function App() {
         </div>
 
         <div className="item2">
-        <p className="para">The shift</p>
+        <p className="title">The shift</p>
         <h3>Kodak's Dubious Blockchain Gamble</h3>
         <p className="para">
         What's a 130-years-old photo company doing dabbling in cryptocurrency? Either revolutionizing digital rights management or trying to make a quick buck.
